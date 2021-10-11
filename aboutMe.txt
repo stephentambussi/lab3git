@@ -1,1 +1,7 @@
 My name is Stephen Tambussi. My major is computer science and engineering. I am a senior. I like to code.
+COEN 174
+COEN 194
+BIOL 188
+ENGR 19
+ENGR 330
+COEN 199
